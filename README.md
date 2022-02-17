@@ -1,6 +1,6 @@
 # npm-react-typescript-template
 
-A template for publishing a React + TypeScript package to npm
+QuantGate Systems Sentiment Spectrum NPM package
 
 ## How to use
 

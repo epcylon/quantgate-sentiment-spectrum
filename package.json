@@ -1,10 +1,10 @@
 {
-  "name": "npm-react-typescript-template",
+  "name": "quantgate-sentiment-spectrum",
   "version": "1.0.1",
-  "description": "A template for publishing a React + TypeScript package to npm",
-  "author": "ovieokeh",
+  "description": "A template for Quantgate Sentiment Spectrum",
+  "author": "epcylon",
   "license": "Apache-2.0",
-  "repository": "ovieokeh/npm-react-typescript-template",
+  "repository": "epcylon/quantgate-sentiment-spectrum",
   "main": "dist/index.js",
   "engines": {
     "node": ">=8",
